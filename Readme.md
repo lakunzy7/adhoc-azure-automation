@@ -368,10 +368,13 @@ This project is for **educational and portfolio purposes only**.
 
 ---
 
-**Author:** Owofola Olakunle (Lakunzy)
-**Project Type:** DevOps Infrastructure Automation
-**Platform:** Microsoft Azure (Free Tier)
-**Date:** October 2025
-**Channel:** [CyberLab Chronicles on YouTube](https://www.youtube.com/@CyberLabChronicles)
-------------------------------------------------------------------------------------------
+*Author:* Owofola Olakunle (Lakunzy)
+
+*Project Type:* DevOps Infrastructure Automation
+
+*Platform:* Microsoft Azure (Free Tier)
+
+*Date:* October 2025
+
+*Channel:* [CyberLab Chronicles on YouTube](https://www.youtube.com/@CyberLabChronicles)
 
